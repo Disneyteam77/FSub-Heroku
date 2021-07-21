@@ -2,7 +2,7 @@
 
 # 👨‍💻 Deploy:
 ### -Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteam76/FSub-Heroku/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteam77/FSub-Heroku/tree/master)
 
 # ⚙ Commands :
 
